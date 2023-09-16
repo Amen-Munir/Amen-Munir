@@ -7,14 +7,14 @@ I'm a Student of Computer Science based in Lahore, Pakistan. I have a passion fo
 ## About Me
 
 - 🔭 I’m currently in my 2nd year of University.
-- 🌱 I’m currently learning  Java script and python.
+- 🌱 I’m currently learning Raect and cloud Computing.
 - 💬 Ask me about OOP conepts.
 - 📫 How to reach me: amen.muni12@gmail.com
 
 ## My Tech Stack
 
-- Programming Languages: C++, Python, Java Script
-- Front-end: CSS, Html, Js (on my way to learn React)
+- Programming Languages: C++, Python, Java Script, 
+- Front-end: CSS, Html, Js, JSX, React.js
 - Have good problem solving skills.
 
 
