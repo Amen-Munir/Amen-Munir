@@ -1,26 +1,38 @@
-# Hello, I'm Amen Munir.
-![1634749417835](https://github.com/Amen-Munir/Amen-Munir/assets/121969659/081f390b-d5c6-4a79-9777-0c1c4be28511)
 
 
-I'm a Student of Computer Science based in Lahore, Pakistan. I have a passion for Web Development and Data Science, and I enjoy creating Front-End projects projects. Welcome to my GitHub profile!
-
-## About Me
-
-- 🔭 I’m currently in my 2nd year of University.
-- 🌱 I’m currently learning Raect and cloud Computing.
-- 💬 Ask me about OOP conepts.
-- 📫 How to reach me: amen.muni12@gmail.com
-
-## My Tech Stack
-
-- Programming Languages: C++, Python, Java Script, 
-- Front-end: CSS, Html, Js, JSX, React.js
-- Have good problem solving skills.
+<h1 align="center">Hi 👋, I'm Amen Munir</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-## Connect with Me
+- Ì am working on **ReactJS**
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amen-munir-b98996256/)
-- Email me at amen..munir12@gmail.com 
+- 🌱 I’m currently learning **ReactJS and Data Science with Python**
 
-Feel free to explore my repositories and get in touch! 😄
+- I’m looking to collaborate on **Front End Projects**
+
+- 👨‍💻 All of my projects are available at [https://651001e1fc0bfc41b5b8acb1--jocular-centaur-aa216a.netlify.app/](https://651001e1fc0bfc41b5b8acb1--jocular-centaur-aa216a.netlify.app/)
+
+- Reach me through **amen.munir12@gmail.com**
+
+- 📄 Know about my experiences [https://651001e1fc0bfc41b5b8acb1--jocular-centaur-aa216a.netlify.app/](https://651001e1fc0bfc41b5b8acb1--jocular-centaur-aa216a.netlify.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/amen-munir-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/amen-munir-the-solid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amen-munir-b98996256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amen-munir-b98996256/" height="30" width="40" /></a>
+<a href="https://fb.com/amenmunir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amenmunir" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/amenmunir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amenmunir/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/amenmunir16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amenmunir16" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amen-munir&show_icons=true&locale=en&layout=compact" alt="amen-munir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amen-munir&show_icons=true&locale=en" alt="amen-munir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amen-munir&" alt="amen-munir" /></p>
+
+
+
