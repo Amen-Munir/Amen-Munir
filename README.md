@@ -10,7 +10,7 @@
 
 - I’m looking to collaborate on **Front End Projects**
 
-- 👨‍💻 All of my projects are available at [https://651001e1fc0bfc41b5b8acb1--jocular-centaur-aa216a.netlify.app/](https://651001e1fc0bfc41b5b8acb1--jocular-centaur-aa216a.netlify.app/)
+- 👨‍💻 All of my projects are available at in my GitHub repos.
 
 - Reach me through **amen.munir12@gmail.com**
 
