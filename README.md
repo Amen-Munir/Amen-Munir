@@ -34,7 +34,12 @@
 
 ## 🔥 GitHub Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user-Amen-Munir&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username-Amen-Munir&theme=radical)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amen-Munir&theme=react-dark)
+
 
 
 
