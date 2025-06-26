@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python for ML and AI integration in WebDevelopment**
 
-- 👯 I’m looking to collaborate on **Front End Projects, Backend Projects, and Python Development**
+- 👯 I’m looking to collaborate on **AI Projects, Backend Projects, and Python Development**
 
   - 👨‍💻 All of my projects are available in my [GitHub repos](https://github.com/Amen-Munir)
 
