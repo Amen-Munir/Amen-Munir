@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋, I'm Amen Munir</h1>
-<h3 align="center">A passionate Backend and AI developer from Pakistan</h3>
+<h1 align="center">Hi , I'm Amen Munir</h1>
+<h3 align="center">Software Engineer | Backend Developer | AI Applications</h3>
 
-- 🔭 I’m currently working on **Langchain and Langraphs**
+ Computer Science graduate of UET Lahore with experience building AI-powered applications, backend systems, and web automation solutions.
 
-- 🌱 I’m currently learning **Python for ML and AI integration in WebDevelopment**
+Currently building:
 
-- 👯 I’m looking to collaborate on **AI Projects, Backend Projects, and Python Development**
+* AikApply – AI-driven university admission automation platform
+* RAG-based AI applications using LangChain and LangGraph
+* Django & React full-stack systems
 
-  - 👨‍💻 All of my projects are available in my [GitHub repos](https://github.com/Amen-Munir)
+💡 Areas of Interest:
 
-- 📫 Reach me through **amen.munir12@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/amen-munir-b98996256/)
+* Backend Development
+* Artificial Intelligence & LLM Applications
+* Automation & AI Agents
+* Software Engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/amen-munir-the-solid" target="blank"><img align
+ Tech Stack:
+
+* Python, C#, JavaScript
+* Django, Django REST Framework, .NET Core MVC
+* React.js, HTML, CSS, Bootstrap
+* LangChain, LangGraph, OpenAI API
+* TensorFlow, PyTorch, Scikit-Learn
+* PostgreSQL, SQL Server
+* Selenium, Playwright
+
+ Experience:
+
+* AI App Developer Intern – MexemAI Technologies
+* Machine Learning Fellow – ACM UET
+* Vice President – ACM UET Narowal Campus
+
+ Contact:
+Email: [amen.munir12@gmail.com](mailto:amen.munir12@gmail.com)
+LinkedIn: linkedin.com/in/amen-munir-b98996256
+GitHub: github.com/Amen-Munir
